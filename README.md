@@ -1,5 +1,5 @@
-# Patterns using React Hooks
-Here's a collection of simple solutions to complex problems using hooks:
+# The Hook Cook Book
+I've gathered a collection of simple solutions to complex problems using hooks:
 
 ## Resource fetching using hooks
 Fetch a resource, get the loading state, cache the result, respond to parameter change, ignore stale requests:
@@ -15,3 +15,10 @@ Build your own virtual scroll (windowing) on a large list of items:
 A custom hook will do all the wiring for you, but you are still in control:
 
 [![Edit Easier controlled components using hooks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/o97l3qzq5z)
+
+
+<hr/>
+
+### Contribute
+
+Submit a PR to contribute more examples. Please follow the same format

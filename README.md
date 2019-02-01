@@ -1,6 +1,6 @@
 # The Hook Cook Book
 
-Basic Concepts: 
+Simple Patterns: 
 - [useState with init function](https://codesandbox.io/s/92r9yrmnyo)
 - [setState with function](https://codesandbox.io/s/w6xynq3z9l)
 - [Toggle reusable custom hook](https://codesandbox.io/s/zrjn39qqwx)

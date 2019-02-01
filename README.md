@@ -1,5 +1,4 @@
 # The Hook Cook Book
-We've gathered a collection of simple solutions to complex problems using hooks:
 
 Basic Concepts: 
 - [useState with init function](https://codesandbox.io/s/92r9yrmnyo)

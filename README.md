@@ -10,3 +10,8 @@ Fetch a resource, get the loading state, cache the result, respond to parameter 
 Build your own virtual scroll (windowing) on a large list of items:
 
 [![Edit Virtual Scroll Using Hooks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/214p1911yn)
+
+## Easier controlled components using hooks
+A custom hook will do all the wiring for you, but you are still in control:
+
+[![Edit Easier controlled components using hooks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/o97l3qzq5z)

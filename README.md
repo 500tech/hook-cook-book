@@ -1,5 +1,5 @@
-# React Hooks are Awesome
-Here's A collection of simple solutions to complex problems using hooks:
+# Patterns using React Hooks
+Here's a collection of simple solutions to complex problems using hooks:
 
 ## Resource fetching using hooks
 Fetch a resource, get the loading state, cache the result, respond to parameter change, ignore stale requests:

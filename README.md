@@ -1,5 +1,5 @@
 # The Hook Cook Book
-I've gathered a collection of simple solutions to complex problems using hooks:
+We've gathered a collection of simple solutions to complex problems using hooks:
 
 ## Resource fetching using hooks
 Fetch a resource, get the loading state, cache the result, respond to parameter change, ignore stale requests:

@@ -5,12 +5,15 @@ Simple Patterns:
 - [setState with function](https://codesandbox.io/s/w6xynq3z9l)
 - [Toggle reusable custom hook](https://codesandbox.io/s/zrjn39qqwx)
 - [Computed values with useMemo](https://codesandbox.io/s/v80068jq40)
-- [Scroll tracking with a reusable custom hook](https://codesandbox.io/s/r5r7w0697q)
 
 Advanced Patterns: 
 - [Resource fetching](https://codesandbox.io/s/9z4l2po0pw)
-- [Virtual scroll](https://codesandbox.io/s/214p1911yn)
 - [Easier controlled components](https://codesandbox.io/s/o97l3qzq5z)
+
+Complex UI problems:
+- [Virtual scroll](https://codesandbox.io/s/214p1911yn)
+- [Drag and Drop](https://codesandbox.io/s/v3x74022j5)
+- [Scroll tracking with a reusable custom hook](https://codesandbox.io/s/r5r7w0697q)
 
 Common Pitfalls:
 - [Stale state with useCallback](https://codesandbox.io/s/p55wln789x)

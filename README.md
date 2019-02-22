@@ -15,8 +15,11 @@ Complex UI problems:
 - [Drag and Drop](https://codesandbox.io/s/v3x74022j5)
 - [Scroll tracking with a reusable custom hook](https://codesandbox.io/s/r5r7w0697q)
 
-Common Pitfalls:
+Pitfalls:
 - [Stale state with useCallback](https://codesandbox.io/s/p55wln789x)
+
+Under the hood:
+- [Order of effects, layout effects, and renders](https://codesandbox.io/s/rj6m9w531p)
 
 <hr/>
 

@@ -9,6 +9,7 @@ Simple Patterns:
 Advanced Patterns: 
 - [Resource fetching](https://codesandbox.io/s/9z4l2po0pw)
 - [Easier controlled components](https://codesandbox.io/s/o97l3qzq5z)
+- [Throttling with useCallback and useRef](https://codesandbox.io/s/qq8rl8lx96)
 
 Complex UI problems:
 - [Virtual scroll](https://codesandbox.io/s/214p1911yn)

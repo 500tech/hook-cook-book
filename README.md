@@ -11,6 +11,7 @@ Advanced Patterns:
 - [Easier controlled components](https://codesandbox.io/s/o97l3qzq5z)
 - [Throttling with useCallback and useRef](https://codesandbox.io/s/qq8rl8lx96)
 - [Custom hook for objects using lodash](https://codesandbox.io/s/v618v21x5y)
+- [useReducer with action creators](https://codesandbox.io/s/rrryqpwovq)
 
 Complex UI problems:
 - [Virtual scroll](https://codesandbox.io/s/214p1911yn)

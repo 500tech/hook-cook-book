@@ -12,8 +12,9 @@ Advanced Patterns:
 - [Throttling with useCallback and useRef](https://codesandbox.io/s/qq8rl8lx96)
 - [Custom hook for objects using lodash](https://codesandbox.io/s/v618v21x5y)
 - [useReducer with action creators](https://codesandbox.io/s/rrryqpwovq)
-- [useReducer with actions](https://codesandbox.io/s/61qw22lp3z)
+- [useState complex object with actions](https://codesandbox.io/s/61qw22lp3z)
 - [Making setInterval declarative (Dan Abramov)](https://codesandbox.io/s/105x531vkq)
+- [Composing setters](https://codesandbox.io/s/composing-state-setters-g6kmq)
 
 Complex UI problems:
 - [Virtual scroll](https://codesandbox.io/s/214p1911yn)
